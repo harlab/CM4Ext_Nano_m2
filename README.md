@@ -6,6 +6,7 @@ Tiny baseboard for Raspberry Pi Compute Module 4 with PCIe m.2 card slot
 # Preliminary specifications
 - High denstity Raspberry Pi CM4 connectors
 - PCIe m.2 connector for xx30 and xx42 cards
+- SIM-card holder for m.2 B-key option
 - Micro SD card connector
 - micro HDMI (type-D) connector with ESD protection
 - 2xUSB3.0 type-C host ports
